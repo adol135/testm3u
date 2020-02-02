@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/CartoonNetwork.de.png" group-title="Kids/Animation",Cartoon Network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Cartoon Network
 http://fr-c.movply.stream/hls/Carton_Network.m3u8
