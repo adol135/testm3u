@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="USA",Nat Geo Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/national-geographic-logo-png-ng-logo-gray-png-2000.png" group-title="USA",National Geographic
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+
+#EXTINF:-1 ,Animax
+https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax-avc1_2499968=11-Animax-mp4a_98800_eng=3.m3u8
+
+#EXTINF:-1 ,Disney Channel
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ,Nick
+http://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_250_320x240_191618/playlist.m3u8
+
+
+
