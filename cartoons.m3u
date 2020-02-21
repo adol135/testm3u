@@ -1,42 +1,43 @@
 #EXTM3U
 #EXTINF:-1,Boomerang
-https://peer5.ustv.to/Boomerang/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDE6MzU6MzggQU0maGFzaF92YWx1ZT1XUVREMWd5NzFPNTk2TkIrSDJFNE13PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==‘,
+https://peer5.ustv.to/Boomerang/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDE6NDU6NTQgQU0maGFzaF92YWx1ZT1zZ1FUYmRjbUFCajFQVG9UZ3lCYkZnPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==',
 
 #EXTINF:-1,Nicktoons 
-https://peer5.ustv.to/Nicktoons/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDE6MzU6MzggQU0maGFzaF92YWx1ZT1XUVREMWd5NzFPNTk2TkIrSDJFNE13PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==‘,
+https://peer5.ustv.to/Nicktoons/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDE6NDU6NTQgQU0maGFzaF92YWx1ZT1zZ1FUYmRjbUFCajFQVG9UZ3lCYkZnPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==',
 
 #EXTINF:-1,Nickelodeon
-https://peer5.ustv.to/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDE6MzU6MzggQU0maGFzaF92YWx1ZT1XUVREMWd5NzFPNTk2TkIrSDJFNE13PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==‘,
+https://peer5.ustv.to/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDE6NDU6NTQgQU0maGFzaF92YWx1ZT1zZ1FUYmRjbUFCajFQVG9UZ3lCYkZnPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==',
 
 #EXTINF:-1,Disney XD 
-https://peer5.ustv.to/DisneyXD/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDE6MzU6MzggQU0maGFzaF92YWx1ZT1XUVREMWd5NzFPNTk2TkIrSDJFNE13PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==‘,
+https://peer5.ustv.to/DisneyXD/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDE6NDU6NTQgQU0maGFzaF92YWx1ZT1zZ1FUYmRjbUFCajFQVG9UZ3lCYkZnPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==',
 
 #EXTINF:-1,Disney
-https://peer5.ustv.to/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDE6MzU6MzggQU0maGFzaF92YWx1ZT1XUVREMWd5NzFPNTk2TkIrSDJFNE13PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==‘,
+https://peer5.ustv.to/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDE6NDU6NTQgQU0maGFzaF92YWx1ZT1zZ1FUYmRjbUFCajFQVG9UZ3lCYkZnPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==',
 
 #EXTINF:-1,Cartoon Network
-https://peer5.ustv.to/CN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDE6MzU6MzggQU0maGFzaF92YWx1ZT1XUVREMWd5NzFPNTk2TkIrSDJFNE13PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==‘,
+https://peer5.ustv.to/CN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDE6NDU6NTQgQU0maGFzaF92YWx1ZT1zZ1FUYmRjbUFCajFQVG9UZ3lCYkZnPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==',
 
 #EXTINF:-1,Comedy Central
-https://peer5.ustv.to/Comedy/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDE6MzU6MzggQU0maGFzaF92YWx1ZT1XUVREMWd5NzFPNTk2TkIrSDJFNE13PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==‘,
+https://peer5.ustv.to/Comedy/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDE6NDU6NTQgQU0maGFzaF92YWx1ZT1zZ1FUYmRjbUFCajFQVG9UZ3lCYkZnPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==',
 
 #EXTINF:-1,Discovery Channel
-https://peer5.ustv.to/Discovery/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDE6MzU6MzggQU0maGFzaF92YWx1ZT1XUVREMWd5NzFPNTk2TkIrSDJFNE13PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==‘,
+https://peer5.ustv.to/Discovery/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDE6NDU6NTQgQU0maGFzaF92YWx1ZT1zZ1FUYmRjbUFCajFQVG9UZ3lCYkZnPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==',
 
 #EXTINF:-1,Nat Geo Wild
-https://peer5.ustv.to/NatGEOWild/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDE6MzU6MzggQU0maGFzaF92YWx1ZT1XUVREMWd5NzFPNTk2TkIrSDJFNE13PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==‘,
+https://peer5.ustv.to/NatGEOWild/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDE6NDU6NTQgQU0maGFzaF92YWx1ZT1zZ1FUYmRjbUFCajFQVG9UZ3lCYkZnPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==',
 
 #EXTINF:-1,Nat Geo
-https://peer5.ustv.to/NatGEO/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDE6MzU6MzggQU0maGFzaF92YWx1ZT1XUVREMWd5NzFPNTk2TkIrSDJFNE13PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==‘,
+https://peer5.ustv.to/NatGEO/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDE6NDU6NTQgQU0maGFzaF92YWx1ZT1zZ1FUYmRjbUFCajFQVG9UZ3lCYkZnPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==',
 
 #EXTINF:-1,HBO
-https://peer5.ustv.to/HBO/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDE6MzU6MzggQU0maGFzaF92YWx1ZT1XUVREMWd5NzFPNTk2TkIrSDJFNE13PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==‘,
+https://peer5.ustv.to/HBO/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDE6NDU6NTQgQU0maGFzaF92YWx1ZT1zZ1FUYmRjbUFCajFQVG9UZ3lCYkZnPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==',
 
 #EXTINF:-1,TBS
-https://peer5.ustv.to/TBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDE6MzU6MzggQU0maGFzaF92YWx1ZT1XUVREMWd5NzFPNTk2TkIrSDJFNE13PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==‘,
+https://peer5.ustv.to/TBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDE6NDU6NTQgQU0maGFzaF92YWx1ZT1zZ1FUYmRjbUFCajFQVG9UZ3lCYkZnPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==',
 
 #EXTINF:-1,FOX
 https://peer5.ustv.to/FOX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDE6MzU6MzggQU0maGFzaF92YWx1ZT1XUVREMWd5NzFPNTk2TkIrSDJFNE13PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==',
 
 #EXTINF:-1,Animal Planet
 https://peer5.ustv.to/Animal/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDE6MzU6MzggQU0maGFzaF92YWx1ZT1XUVREMWd5NzFPNTk2TkIrSDJFNE13PT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==',
+
