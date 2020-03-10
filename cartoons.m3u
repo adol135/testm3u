@@ -41,5 +41,3 @@ https://peer5.ustv.to/FOX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8
 #EXTINF:-1,Animal Planet
 https://peer5.ustv.to/Animal/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My85LzIwMjAgODo0NDoxNyBBTSZoYXNoX3ZhbHVlPWcvYzYwQ0tIb29xUlF2eUZ0LzF3REE9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTA=
 
-#EXTINF:-1,Cartoon Network 2
-https://peer5.ustv.to/CN/myStream/chunks.m3u8?nimblesessionid=145240013&wmsAuthSign=c2VydmVyX3RpbWU9My85LzIwMjAgODo0NDoxNyBBTSZoYXNoX3ZhbHVlPWcvYzYwQ0tIb29xUlF2eUZ0LzF3REE9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTA=
